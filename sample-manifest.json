@@ -1,12 +1,12 @@
 {
-  "export_job_id": "37f3a40f-44d0-4c9d-8f04-a26a5a4d7457",
+  "export_job_id": "9b33b0b4-b478-4e14-b9de-07c84a8bfd3b",
   "id_short": 837577,
-  "published_at": "2026-04-13T07:52:54Z",
+  "published_at": "2026-04-19T07:15:37Z",
   "repo_name": "restaurant-verified-email-access-in-rhode-island-us-sample-837577",
   "sample_asset_name": "beamstation_837577_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/837577/beamstation_837577_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_records": 78,
-  "sample_sha256": "44a8cae12ccc2e1389b8c1373a1bafb76a3f2dc80ccf92f9fe6d8b4ded5d34d1",
-  "sample_size_bytes": 301072,
-  "total_records": 782
+  "sample_records": 76,
+  "sample_sha256": "9c3add577e4ad8f03c4c4e8774d85d8cad75d89cf25c87f057d6ba5949a4cb0f",
+  "sample_size_bytes": 304017,
+  "total_records": 763
 }
