@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Rhode Island, US
 
-> Free BeamStation sample export with 76 rows and masked direct-contact fields.
+> Free BeamStation sample export with 56 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `837577` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 763 records |
-| Free sample size | 76 records (9.96%) |
-| Last export | 2026-04-15T05:14:22.562658+00:00 |
+| Full dataset size | 565 records |
+| Free sample size | 56 records (9.91%) |
+| Last export | 2026-04-22T11:04:45.120014+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-rhode-island-us-sample-837577/releases/download/sample-latest/beamstation_837577_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
